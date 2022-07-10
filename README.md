@@ -22,6 +22,7 @@ los pasos a seguir son:
 1) Clono el repositorio con git bash.                                        
 $ git clone https://github.com/EMTSTISPC/Alumnos.git                          
 
+Dentro de la carpeta "Alumnos".
 2) Edito la lista de alumnos agregandome. 
 
 3) confirmo los cambios.\
