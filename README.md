@@ -29,7 +29,7 @@ $ git add 'Lista de Alumnos.xlsx'
 \
 $ git commit -m 'Se agrega el [fila] Alumno al archivo'
 
-4) subo los cambios al repo remoto
+4) subo los cambios al repo remoto\
 $ git push https://github.com/EMTSTISPC/Alumnos.git
 
 
