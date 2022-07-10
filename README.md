@@ -23,6 +23,7 @@ los pasos a seguir son:
 $ git clone https://github.com/EMTSTISPC/Alumnos.git                          
 
 Dentro de la carpeta "Alumnos".
+
 2) Edito la lista de alumnos agregandome. 
 
 3) confirmo los cambios.\
